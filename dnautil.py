@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-dnautil contains a few useful functions for dna sequence
+This Python script "dnautil" contains a few useful functions for DNA sequences.
 """
 
 def gc(dna):
