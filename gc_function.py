@@ -1,6 +1,7 @@
+#!/usr/bin/python
+
 """
-This is my first funciton in Python program.
-It computes the GC content of a DNA sequence.
+This Python script computes the GC content of a DNA sequence.
 """
 
 def gc(dna):
