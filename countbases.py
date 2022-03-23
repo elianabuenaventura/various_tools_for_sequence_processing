@@ -1,3 +1,7 @@
+"""
+This Python script counts DNA bases in several ways.
+"""
+
 def count1(dna, base):
     i = 0
     for c in dna:
