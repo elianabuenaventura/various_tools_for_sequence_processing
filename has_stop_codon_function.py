@@ -1,5 +1,4 @@
-""" This is my second funcion in Python
-It checks if a given dna sequence has in frame stop codons. 
+""" This Python script checks if a given dna sequence has in frame stop codons. 
 The default reading frame starts in the first codon position (frame=0), but
 the user can define other reading frames by invoking the function with the 
 arguments (dna, 1) for second codon position or (dna, 2) for third codon 
