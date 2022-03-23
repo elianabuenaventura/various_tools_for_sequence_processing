@@ -1,5 +1,8 @@
-"""This is my third funtion in Python. 
-It returns the reverse the lowercase complement of a given dna sequence"""
+#!/usr/bin/python
+
+""" 
+This Python script returns the reverse the lowercase complement of a given dna sequence
+"""
 
 def reversecomplement(seq):
     """This function returns the reverse complement of a given dna sequence"""
