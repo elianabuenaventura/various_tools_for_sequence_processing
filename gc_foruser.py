@@ -1,6 +1,7 @@
+#!/usr/bin/python
+
 """
-This is my second Python program.
-It computes the GC content of a DNA sequence entered by the user.
+This Python script computes the GC content of a DNA sequence entered by the user.
 """
 
 dna = raw_input("Enter your DNA sequence: ")
