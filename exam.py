@@ -1,4 +1,9 @@
-# -*- coding: utf-8 -*-
+#!/usr/bin/python
+
+"""
+This Python script processes sequences.
+"""
+
 import re
 
 name = "dna2.fasta"
