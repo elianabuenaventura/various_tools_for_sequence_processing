@@ -1,5 +1,7 @@
+#!/usr/bin/python
+
 """
-This script will read a fasta file and create a dictionary containing 
+This Python script will read a fasta file and create a dictionary containing 
 the keys, which are the headers or sequence IDs starting with '>'
 and the values, which are the sequences
 """
