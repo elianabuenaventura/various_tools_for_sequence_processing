@@ -1,8 +1,7 @@
 #!/usr/bin/python
 
 """
-This is my first Python program
-It computes the GC content of a DNA sequence.
+This Python script computes the GC content of a DNA sequence.
 """
 
 #get the DNA sequence
