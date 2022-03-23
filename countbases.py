@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """
 This Python script counts DNA bases in several ways.
 """
