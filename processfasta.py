@@ -1,5 +1,6 @@
-"""
-The Python script processfasta.py builds a dictionary with all sequences of FASTA file
+#!/usr/bin/python
+
+""" This Python script builds a dictionary with all sequences of FASTA file
 """
 
 import sys
