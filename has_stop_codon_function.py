@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 """ This Python script checks if a given dna sequence has in frame stop codons. 
 The default reading frame starts in the first codon position (frame=0), but
 the user can define other reading frames by invoking the function with the 
